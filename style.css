@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-back-color {
+    background: linear-gradient(to top, #4ae7ff, #CFEEF9 );
+}
+
+
+#slider-cut {
+    width: 70%;
+}
+
+.fixed{
+    position: fixed;
+}
+

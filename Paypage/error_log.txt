@@ -1,0 +1,49 @@
+[25-Feb-2021 01:30:50 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 01:32:03 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_cPtYK1uzBGA73n) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 01:32:13 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 01:32:50 UTC] PHP Notice:  Undefined index: usuario in /home/z71akgibyp47/public_html/Paypage/pagos.php on line 3
+[25-Feb-2021 01:32:50 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 01:32:54 UTC] PHP Notice:  Undefined index: usuario in /home/z71akgibyp47/public_html/Paypage/pagos.php on line 3
+[25-Feb-2021 01:32:54 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 01:32:54 UTC] PHP Notice:  Undefined variable: Total in /home/z71akgibyp47/public_html/Paypage/pagos.php on line 76
+[25-Feb-2021 01:32:54 UTC] PHP Notice:  Undefined variable: Total in /home/z71akgibyp47/public_html/Paypage/pagos.php on line 120
+[25-Feb-2021 01:50:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 01:51:10 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ocoF3ZQC7RLg2h) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:03:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:04:25 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_Qcuszs4564yzWX) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:04:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:20:04 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_cM8TT00M9riU6e) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:20:20 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:25:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:26:10 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_nZ7VSxpe19F88p) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:30:05 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:30:39 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:31:20 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_TEBQHZ65rZY6tw) No such token: 'tok_1IOZdLK8tCeTRhY7DQtHa5PT'; a similar object exists in test mode, but a live mode key was used to make this request.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:31:41 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:39:07 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:39:55 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_PEUnQm8PRrDszB) No such token: 'tok_1IOZleK8tCeTRhY7AQrEoyji'; a similar object exists in test mode, but a live mode key was used to make this request.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:46:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:49:35 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 02:50:28 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_fOcltMchyIwfTN) No such token: 'tok_1IOZvqK8tCeTRhY7ViYiIGme'; a similar object exists in test mode, but a live mode key was used to make this request.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 02:50:30 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 21:23:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 21:23:48 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_gwtF720cFDfXiu) No such token: 'tok_1IOrJHK8tCeTRhY7xRV5UHVS'; a similar object exists in test mode, but a live mode key was used to make this request.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-Feb-2021 21:23:52 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 21:28:23 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[25-Feb-2021 21:29:00 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_BM3sAr7HL8cECB) No such token: 'tok_1IOrOJK8tCeTRhY75u6gJHEd'; a similar object exists in test mode, but a live mode key was used to make this request.
+  thrown in /home/z71akgibyp47/public_html/Paypage/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2021 19:20:52 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[17-Mar-2021 19:21:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/Paypage/charge.php on line 62
+[17-Mar-2021 19:21:41 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[17-Mar-2021 19:21:41 UTC] PHP Notice:  Undefined variable: USR in /home/z71akgibyp47/public_html/Paypage/charge.php on line 100
+[17-Mar-2021 19:21:41 UTC] PHP Notice:  Undefined variable: USR in /home/z71akgibyp47/public_html/Paypage/charge.php on line 100
+[29-Apr-2021 01:44:16 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4

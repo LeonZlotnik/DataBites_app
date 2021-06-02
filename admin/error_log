@@ -1,0 +1,1424 @@
+[23-Feb-2021 04:48:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:48:58 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:48:58 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:49:06 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:49:06 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:49:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:49:10 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:49:10 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:49:21 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:49:25 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:49:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:49:42 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 04:49:42 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:49:42 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 04:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 04:50:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:50:06 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 04:50:06 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:06 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 04:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 04:50:10 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:10 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 156
+[23-Feb-2021 04:50:10 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 160
+[23-Feb-2021 04:50:29 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 04:50:29 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:29 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 04:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 04:50:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:50:37 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:46 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:46 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 04:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/token.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 04:50:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:50:55 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:55 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 04:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 04:50:57 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:50:57 UTC] PHP Notice:  Undefined variable: mysql in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 04:50:57 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 04:50:57 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 04:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 04:51:02 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:02 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 04:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 04:51:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:51:11 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 04:51:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 04:51:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:28 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 04:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/comments.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 04:51:32 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:32 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 04:51:32 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 04:51:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:51:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:56 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:51:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:51:56 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:52:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/z71akgibyp47/public_html/admin/crearadmin.php on line 13
+[23-Feb-2021 04:55:17 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:55:17 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crearadmin.php on line 24
+[23-Feb-2021 04:55:19 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:55:19 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 04:55:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:55:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel_2.php on line 62
+[23-Feb-2021 04:56:01 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:56:01 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:10 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:56:10 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:56:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 04:56:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:56:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel_2.php on line 62
+[23-Feb-2021 04:56:32 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 04:56:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 04:56:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel_2.php on line 62
+[23-Feb-2021 05:03:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:03:54 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:03:54 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:03:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:04:32 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:04:32 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:04:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:04:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:04:49 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:04:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:05:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:05:14 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:05:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:06:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:06:47 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:06:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:07:55 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:07:55 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:08:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:09:20 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:09:20 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:09:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:11:30 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:11:30 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:11:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:12:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:12:49 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:12:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:15:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:15:25 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:15:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:19:08 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:19:08 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:22:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:27:52 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:27:52 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:28:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:30:46 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:30:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:32:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:32:09 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:32:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:33:28 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 05:33:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:33:28 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:33:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:33:36 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:33:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:34:44 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:34:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:35:59 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:35:59 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:36:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:36:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:36:47 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:36:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:36:57 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 05:36:57 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:36:57 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:37:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:37:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:37:11 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:37:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 05:37:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 05:37:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:37:36 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:37:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:38:51 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 05:38:51 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:38:51 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:38:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:40:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:40:28 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:40:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:40:42 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:40:42 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:40:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:43:22 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:43:22 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 05:43:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 05:46:21 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 05:46:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 05:46:21 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 134
+[23-Feb-2021 05:46:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:31:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:31:05 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:31:05 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:31:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:31:41 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:31:41 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:31:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:32:01 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:32:01 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:32:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:42:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:42:49 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:42:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:42:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:42:53 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:42:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:42:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:43:00 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 35
+[23-Feb-2021 14:43:00 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:43:00 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 135
+[23-Feb-2021 14:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 135
+[23-Feb-2021 14:43:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:44:52 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:44:52 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:44:52 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:45:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:45:22 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:45:22 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:45:22 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:45:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:45:36 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:45:36 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:45:36 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:46:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:46:12 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 14:46:12 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:46:12 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:20 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:46:20 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 156
+[23-Feb-2021 14:46:20 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 160
+[23-Feb-2021 14:46:25 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 14:46:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:46:25 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:46:44 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 14:46:44 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:46:44 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:46:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:46:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:46:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:47:00 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:00 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:47:08 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:08 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:09 UTC] PHP Notice:  Undefined variable: mysql in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 14:47:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 14:47:09 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 14:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 14:47:10 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:10 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:47:40 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:40 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:47:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:47:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:47 UTC] PHP Notice:  Undefined variable: images in /home/z71akgibyp47/public_html/admin/crear_anuncio.php on line 80
+[23-Feb-2021 14:47:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:47:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:53 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:47:53 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:47:55 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:55 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/comments.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:47:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:47:56 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:47:56 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:48:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:48:26 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:26 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:48:26 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:48:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:27 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/comments.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:48:30 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:30 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:48:30 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:48:33 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:33 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:48:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/comments.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/comments.php on line 75
+[23-Feb-2021 14:48:36 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:36 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:48:36 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:48:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:48:46 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:48:46 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:48:46 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:48:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:53:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:53:27 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:57:55 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:57:55 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:58:00 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:00 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 14:58:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:04 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/control_clientes.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/control_clientes.php on line 115
+[23-Feb-2021 14:58:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:08 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:58:08 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:08 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:13 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 14:58:13 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:13 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:58:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:14 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 156
+[23-Feb-2021 14:58:14 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 160
+[23-Feb-2021 14:58:18 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 14:58:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 14:58:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:21 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:58:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:21 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:23 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:23 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[23-Feb-2021 14:58:25 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:58:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:25 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 14:58:26 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 14:58:31 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 14:58:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:31 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 14:58:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:40 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:42 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:42 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 14:58:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/token.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 14:58:43 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:49 UTC] PHP Notice:  Undefined variable: images in /home/z71akgibyp47/public_html/admin/crear_anuncio.php on line 80
+[23-Feb-2021 14:58:50 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:58:54 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:58:54 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 14:58:54 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 14:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:59:01 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:59:01 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 14:59:08 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:59:08 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:59:09 UTC] PHP Notice:  Undefined variable: mysql in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 14:59:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 14:59:09 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 14:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 14:59:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 14:59:14 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 14:59:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:20:59 UTC] PHP Notice:  Undefined index: admin in /home/z71akgibyp47/public_html/admin/menudb.php on line 3
+[23-Feb-2021 17:20:59 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:20:59 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:20:59 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:21:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:21:18 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:21:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:21:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:21:23 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:21:23 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[23-Feb-2021 17:21:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:21:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 25
+[23-Feb-2021 17:21:31 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[23-Feb-2021 17:21:32 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:21:32 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:21:32 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 17:21:37 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 17:23:15 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:23:15 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  move_uploaded_file(public_html/DataBites/admin/img_menu36E0818E-6118-41B8-8703-731CFFE614B7.jpeg): failed to open stream: No such file or directory in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxGtKMX' to 'public_html/DataBites/admin/img_menu36E0818E-6118-41B8-8703-731CFFE614B7.jpeg' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:23:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:23:15 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:23:15 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:23:15 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:26:16 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:26:16 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:26:16 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 17:26:31 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 17:27:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:27:25 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  move_uploaded_file(public_html/DataBites/admin/img_menu/E176B651-EFB6-41CC-95C7-18E14276FC0E.jpeg): failed to open stream: No such file or directory in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvCcRv0' to 'public_html/DataBites/admin/img_menu/E176B651-EFB6-41CC-95C7-18E14276FC0E.jpeg' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:27:25 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:27:25 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:27:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:27:25 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:31:48 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:31:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:31:48 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 17:31:57 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 17:33:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:33:04 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  move_uploaded_file(/home/z71akgibyp47/public_html/DataBites/admin/img_menu/DE264D40-7D3D-4DB7-B5E1-D97ED8E6E8B6.jpeg): failed to open stream: No such file or directory in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyb4Z4p' to '/home/z71akgibyp47/public_html/DataBites/admin/img_menu/DE264D40-7D3D-4DB7-B5E1-D97ED8E6E8B6.jpeg' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 32
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:33:04 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:33:04 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:33:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:33:04 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:33:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:33:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:33:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 17:33:31 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 17:33:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 17:33:31 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:33:31 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:33:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:40:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:40:58 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 17:42:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:42:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:42:18 UTC] PHP Notice:  Undefined index: size in /home/z71akgibyp47/public_html/admin/gestion_comandas.php on line 347
+[23-Feb-2021 17:42:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:42:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/z71akgibyp47/public_html/admin/gestion_comandas.php:55) in /home/z71akgibyp47/public_html/admin/gestion_comandas.php on line 294
+[23-Feb-2021 17:42:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/gestion_comandas.php on line 299
+[23-Feb-2021 17:42:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:42:56 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 17:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/token.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/token.php on line 101
+[23-Feb-2021 17:46:16 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:46:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:46:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:46:21 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 17:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 17:46:23 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:46:23 UTC] PHP Notice:  Undefined variable: mysql in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 17:46:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 48
+[23-Feb-2021 17:46:23 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 17:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ingresos.php on line 154
+[23-Feb-2021 17:46:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:46:48 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 17:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/gestion_ventas.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/gestion_ventas.php on line 152
+[23-Feb-2021 17:46:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:46:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:46:56 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 95
+[23-Feb-2021 17:46:56 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/z71akgibyp47/public_html/admin/dashboards.php on line 96
+[23-Feb-2021 17:47:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 17:47:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 17:47:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 17:47:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 17:47:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:27:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:27:44 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:27:44 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:27:44 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:27:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:27:53 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 19:27:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:27:53 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 19:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 19:27:54 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:27:54 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 156
+[23-Feb-2021 19:27:54 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 160
+[23-Feb-2021 19:28:38 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:28:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_producto.php on line 33
+[23-Feb-2021 19:28:38 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 35
+[23-Feb-2021 19:28:38 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:28:38 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 19:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/inventariodb.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/inventariodb.php on line 127
+[23-Feb-2021 19:28:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:28:47 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:28:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:28:47 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:28:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 19:28:49 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 19:30:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:30:48 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[23-Feb-2021 19:30:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[23-Feb-2021 19:30:48 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[23-Feb-2021 19:30:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:30:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:30:48 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:30:48 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:30:48 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:43:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:43:33 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:43:33 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:33 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:43:38 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:38 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:43:38 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:43:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:43:38 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:38 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:43:47 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:43:47 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:44:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:44:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:44:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:44:45 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:44:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:44:45 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:45 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:44:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:44:51 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:45:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:45:25 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:45:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:45:25 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:45:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:45:25 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:25 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:45:31 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:45:31 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:45:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:47:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:48:06 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:48:06 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:06 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:48:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:14 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[23-Feb-2021 19:48:34 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:34 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 25
+[23-Feb-2021 19:48:34 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[23-Feb-2021 19:48:34 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:48:34 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:34 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:48:40 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:40 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:48:40 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:48:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:48:40 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:40 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:48:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:48:45 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:50:19 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:50:19 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:50:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:50:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:50:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:50:19 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:19 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:50:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:50:45 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:51:11 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:51:11 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:51:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:51:11 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:51:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:51:11 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:11 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 89
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:51:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:51:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:56:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 19:56:41 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 19:56:41 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:56:41 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 19:56:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:56:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 19:56:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 19:56:45 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 19:56:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 19:56:45 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:56:45 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:56:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 19:56:45 UTC] PHP Notice:  Undefined variable: mysql in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 163
+[23-Feb-2021 20:01:33 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 20:01:33 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:01:33 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:01:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:01:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:01:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:01:53 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:01:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:01:53 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:01:53 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:01:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:02:05 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:02:05 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:05:01 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:05:01 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:05:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:05:01 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:05:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:05:01 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:05:01 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:05:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:19 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:06:19 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:06:19 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:19 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:19 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:06:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:06:20 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 20:06:20 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:06:20 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:06:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:06:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:06:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:06:53 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:06:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:06:53 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:53 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:06:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:07:04 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:07:04 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 20:09:03 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:09:03 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:09:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:09:03 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:09:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:09:03 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:03 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:07 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:09:07 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 20:09:07 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:07 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 20:09:07 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 20:09:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 21:58:46 UTC] PHP Notice:  Undefined index: admin in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 3
+[23-Feb-2021 21:58:46 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 21:58:46 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 21:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/contol_admin.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/contol_admin.php on line 87
+[23-Feb-2021 23:20:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 23:20:56 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:20:56 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:20:56 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:21:06 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:21:06 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:06 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:21:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:09 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 23:21:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 23:21:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 23:21:09 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:09 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 62
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  Illegal string offset 'name' in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 70
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 73
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Array to string conversion in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined variable: Array in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 74
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 90
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, string given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 108
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 23:21:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:21:14 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:22:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 23:22:44 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:22:44 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:22:44 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:25:03 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:25:03 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:25:03 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:25:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[23-Feb-2021 23:31:11 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:31:11 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:31:11 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[23-Feb-2021 23:31:14 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[23-Feb-2021 23:32:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 23:32:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[23-Feb-2021 23:32:18 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[23-Feb-2021 23:32:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 23:32:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 23:32:18 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[23-Feb-2021 23:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:18:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/z71akgibyp47/public_html/admin/panel.php on line 132
+[24-Feb-2021 01:18:49 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:18:49 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:18:49 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[24-Feb-2021 01:18:54 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[24-Feb-2021 01:19:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:19:45 UTC] PHP Notice:  Undefined index: guarniciones in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[24-Feb-2021 01:19:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 25
+[24-Feb-2021 01:19:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[24-Feb-2021 01:19:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:19:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:19:45 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:19:45 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:19:45 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:24:24 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:24:24 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crearguarnicion.php on line 110
+[24-Feb-2021 01:24:27 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:24:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:24:27 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[24-Feb-2021 01:24:28 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[24-Feb-2021 01:25:12 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:25:12 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:25:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:25:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[24-Feb-2021 01:25:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:25:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:25:12 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:25:12 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:25:12 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:25:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[24-Feb-2021 01:25:17 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[24-Feb-2021 01:26:27 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:26:27 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:26:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:26:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[24-Feb-2021 01:26:27 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:26:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:26:28 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:26:28 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:26:28 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[24-Feb-2021 01:26:53 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[24-Feb-2021 01:27:24 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:27:24 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:27:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:27:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[24-Feb-2021 01:27:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:27:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:27:24 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:27:24 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:27:24 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: dish in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 169
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: category in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 176
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: status in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 187
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: price in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 197
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: cost in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 201
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: image in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 205
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: desc in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 224
+[24-Feb-2021 01:28:47 UTC] PHP Notice:  Undefined variable: ext in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 229
+[24-Feb-2021 01:29:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:29:21 UTC] PHP Notice:  Undefined index: extras in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:29:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 26
+[24-Feb-2021 01:29:21 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 44
+[24-Feb-2021 01:29:21 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:29:21 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/z71akgibyp47/public_html/admin/crear_plato.php on line 249
+[24-Feb-2021 01:29:21 UTC] PHP Notice:  Undefined variable: change in /home/z71akgibyp47/public_html/admin/menudb.php on line 38
+[24-Feb-2021 01:29:21 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[24-Feb-2021 01:29:21 UTC] PHP Notice:  Undefined variable: connect in /home/z71akgibyp47/public_html/admin/menudb.php on line 138
+[24-Feb-2021 01:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/z71akgibyp47/public_html/admin/menudb.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/z71akgibyp47/public_html/admin/menudb.php on line 138

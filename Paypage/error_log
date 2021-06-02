@@ -1,0 +1,2 @@
+[23-Feb-2021 02:05:24 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
+[23-Feb-2021 03:16:52 UTC] PHP Notice:  Undefined property: mysqli::$connect_erro in /home/z71akgibyp47/public_html/z_connect.php on line 4
